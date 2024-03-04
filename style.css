@@ -97,3 +97,24 @@ button:hover {
 .loading {
     display: none;
 }
+#footer{
+    width: 100%;
+    margin-top: 25%;
+    padding-left: 50px;
+    padding-right: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#fleft h6{
+    color: #2dba4e;
+    font-size: medium;
+}
+#fright a{
+        text-decoration: none;
+        color: #ffffff;
+}
+#fright a:hover{
+    color: #2dba4e;
+
+}
