@@ -98,23 +98,3 @@ button:hover {
 .loading {
     display: none;
 }
-#footer{
-    display: flex;
-    justify-content:flex-end;
-    align-items: center;
-}
-#footer a{
-    padding: 2%;
-    margin-top: 20%;
-    font-size:x-large;
-    color: #ffffff;
-}
-#footer a:hover{
-
-    color:#2dba4e;
-}
-#copy {
-        margin-right: 35%;
-        text-decoration: none;
-        font-size:10%;
-}
